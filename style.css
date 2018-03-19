@@ -19,8 +19,11 @@ hr {
   border-color: #F05F44; 
 }
 
-.faded {
+#header{
   color: rgba(255, 255, 255, 0.8); 
+ -webkit-animation-duration: 4s;
+-moz-animation-duration: 4;
+-ms-transition-animation-duration: 4s;
 }
 
 header.startup {
