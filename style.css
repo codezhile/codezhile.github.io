@@ -25,7 +25,7 @@ hr {
 
 header.startup {
   background-position: center;
-  background-image: url("imgbg.jpg");
+  background-image: url("header.jpg");
   background-size: cover;
   height: 100%;
 }
@@ -43,7 +43,6 @@ header.startup h1 {
 
 .btn {
   font-weight: 700;
-  /*text-transform: uppercase;*/
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
 }
@@ -55,7 +54,7 @@ header.startup h1 {
 .btn-primary {
   background-color: #000000;
   border-color: #000000;
-  margin-bottom: 190px;
+  margin-bottom: 150px;
   
 }
 
